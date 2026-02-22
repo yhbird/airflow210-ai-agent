@@ -209,3 +209,6 @@ __marimo__/
 # local (macOS)
 .DS_Store
 temp/
+
+# airflow
+logs/
